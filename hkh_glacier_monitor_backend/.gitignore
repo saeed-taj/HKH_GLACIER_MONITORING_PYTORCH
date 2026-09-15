@@ -5,6 +5,24 @@ build/
 dist/
 wheels/
 *.egg-info
+.env
 
 # Virtual environments
 .venv
+
+# Local scratch / notes (not meant to be shared)
+practive.py
+notes.txt
+optuna.txt
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Database files (if using local SQLite for dev/testing)
+*.db
+*.sqlite3
+
+# OS/editor junk
+.DS_Store
+.vscode/
+.idea/
