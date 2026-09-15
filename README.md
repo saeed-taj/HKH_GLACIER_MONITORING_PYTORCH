@@ -1,5 +1,8 @@
 # HKH Glacier 3D, Deep Learning Glacier Segmentation & Visualization
 
+
+![HKH Glacier Tranining pipeline ](hkh_glacier_monitoring/glacier_monitor.drawio.png)
+
 > A deep learning pipeline for segmenting glaciers in the Hindu Kush Himalaya (HKH) region from satellite imagery, paired with an interactive 3D visualization that lets users compare glacier extent year-by-year (2008–2026) against a DEM-based terrain model.
 
 ---
@@ -100,8 +103,8 @@ hkh-glacier-3d/
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/hkh-glacier-3d.git
-cd hkh-glacier-3d
+git clone https://github.com/<user-name>/HKH_GLACIER_MONITORING_PYTORCH.git
+cd HKH_GLACIER_MONITORING_PYTORCH
 
 # Install dependencies
 pip install -r requirements.txt
