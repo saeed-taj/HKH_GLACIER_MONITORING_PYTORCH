@@ -45,5 +45,5 @@ class GlacierRecord(Base):
     year: Mapped[int] = mapped_column(Integer)
     area_sq_km: Mapped[float] = mapped_column(Float)
     captured_at: Mapped[datetime] = mapped_column(DateTime, default=lambda : datetime.now(timezone.utc))    
-    mask_path: Mapped[str] = mapped_column(String)
+    mask_path: Mapped[str] =mapped_column(String)
     
