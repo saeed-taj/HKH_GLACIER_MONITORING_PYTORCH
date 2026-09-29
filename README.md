@@ -103,7 +103,7 @@ hkh-glacier-3d/
 
 ```bash
 # Clone the repository
-git clone https://github.com/<user-name>/HKH_GLACIER_MONITORING_PYTORCH.git
+git clone https://github.com/saeed-taj/HKH_GLACIER_MONITORING_PYTORCH.git
 cd HKH_GLACIER_MONITORING_PYTORCH
 
 # Install dependencies
