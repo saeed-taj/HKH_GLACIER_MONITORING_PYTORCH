@@ -100,7 +100,7 @@ hkh-glacier-3d/
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/hkh-glacier-3d.git
+git clone https://github.com/saeed-taj/hkh-glacier-3d.git
 cd hkh-glacier-3d
 
 # Install dependencies
